@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+}
+.text-color{
+    color: tomato;
+}
+.flexiable{
+    display: flex;
+    padding: 5%;
+}
+.flexiable img{
+    width: 100%;
+}
+#textLine{
+    padding-top: 150px;
+}
+.button{
+    background-image: linear-gradient(tomato, orange);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 500;
+    
+}
