@@ -63,8 +63,9 @@ input{
     
 }
 #bg-add{
-    background-image: url(images/shapes/bg.png);
+    background-image: url(images/shapes/bg1.jpg);
     background-repeat: no-repeat;
+    background-size: 1550px 650px;
       
 }
 #my-recipies{
